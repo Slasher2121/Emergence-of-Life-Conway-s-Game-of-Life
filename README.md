@@ -16,5 +16,5 @@ Every cell (patch) on the grid is either alive or dead. Each generation, cells l
 
 ## What to look for
 
-- Random density (~30%) tends to settle into stable "still life" shapes and oscillating patterns after enough generations
+- Random density (~50%) tends to settle into stable "still life" shapes and oscillating patterns after enough generations
 - The glider pattern moves diagonally across the grid indefinitely, without ever changing shape — a clean example of emergent, deterministic motion arising from simple local rules
